@@ -1,3 +1,5 @@
+# ALTERADO PARA NET 8.0
+
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
